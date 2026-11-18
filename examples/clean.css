@@ -1,0 +1,19 @@
+/* A stylesheet where every stack ends in a generic. */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+code {
+  font-family: "Fira Code", Menlo, monospace;
+}
+.fancy {
+  font-family: Papyrus, fantasy;
+}
+.hand {
+  font-family: "Comic Sans MS", cursive;
+}
+.system {
+  font-family: system-ui;
+}

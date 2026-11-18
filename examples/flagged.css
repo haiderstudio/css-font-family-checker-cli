@@ -1,0 +1,13 @@
+/* A stylesheet with stacks that end in a named font. */
+body {
+  font-family: Arial, Helvetica;
+}
+h1 {
+  font-family: Georgia;
+}
+code {
+  font-family: "Fira Code", Menlo;
+}
+p {
+  font-family: Verdana, sans-serif;
+}
